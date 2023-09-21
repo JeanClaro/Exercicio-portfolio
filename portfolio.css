@@ -1,0 +1,49 @@
+.navbar {
+    background-color: rgba(0, 0, 0, ); /* O último valor (0) define a transparência, 0 é completamente transparente, 1 é opaco */
+}
+
+.the-card{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    margin-top: 100px;  
+    grid-column-gap: 20px;
+    row-gap: 20px;
+}
+
+.card-image{
+    width: 300px;
+  }
+
+.content-info{
+    width: 70%;
+}
+
+.Card-2{
+    margin-bottom:20px;
+}
+
+.Card-3{
+    font-size: large;
+}
+.Card-4{
+    margin-bottom: 400px;
+}
+
+.Exp-content{
+    display: flex;
+    grid-column-gap: 50px;
+    font-size: 15px;
+}
+
+.media-fmt{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+body{
+    background-image: url(https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
